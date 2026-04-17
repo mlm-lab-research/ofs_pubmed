@@ -19,4 +19,4 @@ Expects preprocessed PubMed 2026 data (https://pubmed.ncbi.nlm.nih.gov/download/
 
 Python 3.10.16. Key libraries: numpy 1.26.4, pandas 2.2.3, scipy 1.11.4, statsmodels 0.14.4, matplotlib 3.10.1, openTSNE 1.0.2.
 
-Custom package: `pubmed_landscape_src` (see https://github.com/alceubissoto/OFS_pubmed).
+Custom package: `pubmed_landscape_src` (see https://github.com/berenslab/pubmed-landscape).
